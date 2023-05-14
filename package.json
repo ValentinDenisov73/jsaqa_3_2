@@ -1,0 +1,16 @@
+{
+  "name": "jsaqa_3_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0",
+    "playwright": "^1.33.0"
+  }
+}
